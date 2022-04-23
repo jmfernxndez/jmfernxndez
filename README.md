@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @josemafd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, you can find me in social networks as josemafd, jtax or allow_cookies
+- 👀 I am still learning right now focusing on cybersecurity.
+- 💞️ I would like to collaborate with cybersecurity audits.
+- 📫 my work email: hola@josemafd.com
 
-<!---
-josemafd/josemafd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* [Twitter](https://twitter.com/Allow_Cookies)
+* [Reddit](https://www.reddit.com/user/allowcookies)
+* [LinkedIn](https://www.linkedin.com/in/josemafd/)
+* [Instagram](https://www.instagram.com/josemafd/)
