@@ -3,7 +3,7 @@
 - 💞️ I would like to collaborate with cybersecurity audits.
 - 📫 my work email: hola@josemafd.com
 
-* [Twitter](https://twitter.com/Allow_Cookies)
+* [Twitter](https://twitter.com/josemafd)
 * [Reddit](https://www.reddit.com/user/allowcookies)
 * [LinkedIn](https://www.linkedin.com/in/josemafd/)
 * [Instagram](https://www.instagram.com/josemafd/)
