@@ -1,6 +1,5 @@
 <h2> Hi, i'm Jose!</h2>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/josejtax?label=Follow)
 [![Linkedin: josemafd](https://img.shields.io/badge/-josemafd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemafd/)](https://www.linkedin.com/in/josemafd/)
 
 ### About me...
