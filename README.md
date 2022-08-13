@@ -7,7 +7,8 @@ I am a full stack developer, but i specialize a lot in the front end.
 
 ```javascript
 const jose = {
-    code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL, C"],
+    tools: ["Git", "Github", "Figma", "Photoshop", "Sketchbook", "Wordpress", "Elementor"]
     askMeAbout: ["Web Dev", "Tech", "App Dev, "Sys Admin"],
 };
 ```
