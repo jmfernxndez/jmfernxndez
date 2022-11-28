@@ -1,9 +1,6 @@
 <h2> 🙋‍♂️ About me </h2>
 
-Welcome to my Github, I'm Jose Manuel, web developer and cybersecurity enthusiast and all the world around new technologies.
-I like to be learning every day new methodologies and new practices for my code.
-
-I am a full stack developer, but i specialize a lot in the front end.
+Hi I'm José Manuel, I'm a full stack web developer, although I specialize in the front end. I'm a cybersecurity enthusiast and I try to minimize the risks of the websites I manage every day. I like to be learning, mainly new methodologies and practices to improve my way of writing and executing code. 
 
 🧠 Skills.
 <ul>
