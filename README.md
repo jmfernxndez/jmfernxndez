@@ -14,7 +14,7 @@ Hi I'm José Manuel, I'm a full stack web developer, although I specialize in th
 ```javascript
 const jose = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL, C"],
-    tools: ["Git", "Github", "Figma", "Photoshop", "Sketchbook", "Wordpress", "Elementor"],
-    askMeAbout: ["WebDev", "Tech", "AppDev, "SysAdmin", "Cybersecurity"]
+    tools: ["Git", "Figma", "Photoshop", "Sketchbook", "Wordpress", "Elementor"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev, "Sys Admin", "Cybersecurity", "Dev Ops"]
 };
 ```
