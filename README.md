@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I´m++Jose+Manuel..;Welcome+to+my+Github!&center=true&size=30">
 </h1>
 
-###🙋‍♂️ About me
+## 🙋‍♂️ About me
 
 Hi I'm José Manuel, I'm a full stack web developer, although I specialize in the front end. I'm a cybersecurity enthusiast and I try to minimize the risks of the websites I manage every day. I like to be learning, mainly new methodologies and practices to improve my way of writing and executing code. 
 
-##🧠 Skills.
+## 🧠 Skills.
 <ul>
     <li type="circle">Development with good practices</li>
     <li type="circle">Proactivity and continuous learning</li>
@@ -22,7 +22,7 @@ const jose = {
     askMeAbout: ["Web Dev", "Tech", "App Dev, "Sys Admin", "Cybersecurity", "Dev Ops"]
 };
 ```
-##📈 Stats
+## 📈 Stats
 
 <a align="center">
     <p align="center">
