@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I´m++Jose+Manuel....;Welcome+to+my+Github!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I´m++Jose+Manuel..;Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
 
@@ -24,3 +24,10 @@ const jose = {
     askMeAbout: ["Web Dev", "Tech", "App Dev, "Sys Admin", "Cybersecurity", "Dev Ops"]
 };
 ```
+### 📈 Stats
+
+<a align="center" href="#">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allowcookies&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="my github stats" width="300"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=allowcookies&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="languages" height="165">
+    </p>
+</a>
