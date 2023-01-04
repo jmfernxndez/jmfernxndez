@@ -4,7 +4,7 @@
 
 🙋‍♂️ <b>about me</b>
 
-hi i'm josé manuel, i'm a full stack web developer, although i specialize in the front end. i'm a cybersecurity enthusiast and i try to minimize the risks of the websites i manage every day. i like to be learning, mainly new methodologies and practices to improve my way of writing and executing code. 
+i'm a full stack web developer, although i specialize in the front end. i'm a cybersecurity enthusiast and i try to minimize the risks of the websites i manage every day. i like to be learning, mainly new methodologies and practices to improve my way of writing and executing code. 
 
 🧠 <b>skills.</b>
 
