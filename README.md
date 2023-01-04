@@ -23,10 +23,3 @@ const jose = {
     askMeAbout: ["web dev", "tech", "app dev, "sys admin", "cybersecurity", "dev ops"]
 };
 ```
-📈 <b>Stats</b>
-
-<p align="center">
-    <a align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allowcookies&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="my github stats" width="300"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=allowcookies&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="languages" height="165">
-    </a>
-</p>
