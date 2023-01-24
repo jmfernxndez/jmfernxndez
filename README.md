@@ -1,25 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello+👋;i´m++jose+manuel..;welcome+to+my+github!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I´m++Jose+Manuel..;visit+me+on+allowcookies.dev!&center=true&size=30">
 </h1>
 
 🙋‍♂️ <b>about me</b>
 
-i'm a full stack web developer, although i specialize in the front end. i'm a cybersecurity enthusiast and i try to minimize the risks of the websites i manage every day. i like to be learning, mainly new methodologies and practices to improve my way of writing and executing code. 
-
-🧠 <b>skills.</b>
-
-<ul>
-    <li type="circle">development with good practices</li>
-    <li type="circle">proactivity and continuous learning</li>
-    <li type="circle">engagement and critical thinking</li>
-    <li type="circle">project management and communication</li>
-    <li type="circle">team work</li>
-</ul>
+I´m a Full Stack web developer with a special focus on front-end and a continuous learning mentality. My experience includes the use of modern technologies to create attractive and functional user interfaces. Always willing to learn new languages and methodologies in order to deliver more efficient and scalable solutions. 
+My goal is to continue to grow professionally and contribute to the success of the companies.
 
 ```javascript
 const jose = {
-    code: ["html", "css", "javascript", "php", "mysql, c"],
-    tools: ["git", "figma", "photoshop", "sketchbook", "wordpress", "elementor"],
+    code: ["html", "css", "javascript", "php", "mysql, c, hugo, angular"],
+    tools: ["git", "figma", "photoshop", "sketchbook", "wordpress", "shopify"],
     askMeAbout: ["web dev", "tech", "app dev, "sys admin", "cybersecurity", "dev ops"]
 };
 ```
