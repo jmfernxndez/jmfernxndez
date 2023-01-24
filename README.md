@@ -10,7 +10,7 @@ My goal is to continue to grow professionally and contribute to the success of t
 ```javascript
 const jose = {
     code: ["html", "css", "javascript", "php", "mysql, c"],
-    framewo: ["bootstrap", "sass", "hugo", "angular", "react"],
+    framework: ["bootstrap", "sass", "hugo", "angular", "react"],
     tools: ["git", "figma", "photoshop", "sketchbook", "wordpress", "shopify"],
     askMeAbout: ["web dev", "tech", "app dev", "sys admin", "cybersecurity", "dev ops"]
 };
