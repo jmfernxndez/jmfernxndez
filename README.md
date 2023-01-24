@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;visit+me+on;allowcookies.dev!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;visit+me+on;allowcookies.dev!&center=true&size=42">
 </h1>
 
 🙋‍♂️ <b>about me</b>
@@ -12,6 +12,6 @@ const jose = {
     code: ["html", "css", "javascript", "php", "mysql, c"],
     framewo: ["bootstrap", "sass", "hugo", "angular", "react"],
     tools: ["git", "figma", "photoshop", "sketchbook", "wordpress", "shopify"],
-    askMeAbout: ["web dev", "tech", "app dev, "sys admin", "cybersecurity", "dev ops"]
+    askMeAbout: ["web dev", "tech", "app dev", "sys admin", "cybersecurity", "dev ops"]
 };
 ```
