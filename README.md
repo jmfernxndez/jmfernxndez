@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;visit+me+on;allowcookies.dev&center=true&size=32">
-</h1>
-
 🙋‍♂️ <b>about me</b>
 
 I´m a Full Stack web developer with a special focus on front-end and a continuous learning mentality. My experience includes the use of modern technologies to create attractive and functional user interfaces. Always willing to learn new languages and methodologies in order to deliver more efficient and scalable solutions. <br>
