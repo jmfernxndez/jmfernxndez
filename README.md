@@ -1,4 +1,4 @@
-![Cabecera madejrax](/img/banner-madejtax.png)
+![Cabecera madejrax](/banner-madejtax.png)
 
 # About me
 
