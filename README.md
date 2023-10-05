@@ -1,5 +1,3 @@
-![Cabecera madejrax](/banner-madejtax.png)
-
 # About me
 
 Hello there! 👋 I'm José, a full stack web developer with over 2 years of experience in creating and maintaining customized web applications for clients across various industries.
