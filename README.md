@@ -12,7 +12,7 @@ Feel free to connect with me and explore more of my work:
 
 - 🌐 Visit my personal portfolio: [jmfernandez.dev](https://jmfernandez.dev)
 - 💼 Connect with me on LinkedIn: [jmfernandezalvarez](https://www.linkedin.com/in/jmfernandezalvarez/)
-- 💻 Check out my CodePen: [madejtax](https://codepen.io/madejtax)
+- 💻 Check out my CodePen: [madejtax](https://codepen.io/josejtax)
 - 📝 Follow my WordPress profile: [madejtax](https://profiles.wordpress.org/madejtax/)
 
 ## Technologies and Tools 💻
