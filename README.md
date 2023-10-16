@@ -23,7 +23,7 @@ Here are some of the technologies, frameworks, and tools that I work with:
 const jtax = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "C"],
     framework: ["Bootstrap", "SASS", "Angular", "React"],
-    tools: ["GIT", "Github", "Gitlab", "Figma", "Photoshop", "Sketchbook", "WordPress", "Shopify", "Firebase"]
+    tools: ["GIT", "Github", "Gitlab", "Figma", "Photoshop", "Sketchbook", "WordPress", "Shopify", "HubSpot", "Firebase"]
 };
 ```
 
