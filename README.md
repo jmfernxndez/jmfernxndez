@@ -9,8 +9,8 @@ I am a passionate individual when it comes to technology, constantly seeking new
 ## Find me online 🌐
 Feel free to connect with me and explore more of my work:
 
-- 🌐 Visit my personal portfolio: [jmfernandez.dev](https://jmfernandez.dev)
-- 💼 Connect with all my social networks: [link.jmfernandez.dev](https://link.jmfernandez.dev)
+- 🌐 Visit my personal portfolio: [jtax.dev](https://jtax.dev)
+- 💼 Connect with all my social networks: [link.jtax.dev](https://link.jtax.dev)
 
 ## Technologies and Tools 💻
 
