@@ -9,7 +9,6 @@ I am a passionate individual when it comes to technology, constantly seeking new
 ## Find me online 🌐
 Feel free to connect with me and explore more of my work:
 
-- 🌐 Visit my personal portfolio: [jtax.dev](https://jtax.dev)
 - 💼 Connect with all my social networks: [link.jtax.dev](https://link.jtax.dev)
 
 ## Technologies and Tools 💻
@@ -19,7 +18,7 @@ Here are some of the technologies, frameworks, and tools that I work with:
 ```javascript
 const jtax = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "C"],
-    framework: ["Bootstrap", "SASS", "Angular", "React"],
+    framework: ["Bootstrap", "SASS", "Angular", "React", "Astro"],
     tools: ["GIT", "Github", "Gitlab", "Figma", "Photoshop", "Sketchbook", "WordPress", "Shopify", "HubSpot", "Firebase"]
 };
 ```
