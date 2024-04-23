@@ -6,11 +6,6 @@ Currently, I am working at Increnta, collaborating with design and project teams
 
 I am a passionate individual when it comes to technology, constantly seeking new challenges and opportunities to further my professional growth. I enjoy staying updated with the latest trends and acquiring new skills.
 
-## Find me online 🌐
-Feel free to connect with me and explore more of my work:
-
-- 💼 Connect with all my social networks: [link.jtax.dev](https://link.jtax.dev)
-
 ## Technologies and Tools 💻
 
 Here are some of the technologies, frameworks, and tools that I work with:
