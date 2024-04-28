@@ -24,7 +24,7 @@ const jtax = {
 
 ### More open source contributions:
 
-<a href="https://codepen.io/josejtax" target="_blank">
+<a href="https://codepen.io/jt4x" target="_blank">
   <img src="/assets/codepen.svg" alt="josejtax" height="30" width="30" />
 </a>
 
