@@ -38,6 +38,6 @@ const jtax = {
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josejtax)
 
 [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jtax)
-[![twitch](https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/jtax)
+[![twitch](https://img.shields.io/badge/twitch-9147FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/jtax)
 
 Feel free to explore my repositories and get in touch. Let's collaborate and embark on exciting web development journeys together! 😊
