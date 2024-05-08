@@ -22,17 +22,6 @@ const jtax = {
 };
 ```
 
-### More open source contributions:
-
-<a href="https://codepen.io/jt4x" target="_blank">
-  <img src="/assets/codepen.svg" alt="josejtax" height="30" width="30" />
-</a>
-
-<a href="https://dev.to/jtax" target="_blank">
-  <img src="/assets/devto.svg" alt="josejtax" height="30" width="30" />
-</a>
-
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jmfernandezalvarez)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josejtax)
