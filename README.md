@@ -1,5 +1,3 @@
-![banner-readme](/assets/banner-readme.png)
-
 # About me
 
 < Hello world />, I'm Jose Manuel, better known in networks as "jtax", I'm a full stack web developer where I have created and maintained web applications for clients from all types of industries. Which has allowed me to see many different cases of strategies and all kinds of errors.
