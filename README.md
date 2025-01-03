@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jose and I'm a full stack developer, from Spain</h2>
+<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! My name is Jose and I'm a full stack developer, from Spain</h2>
 
 ###
 
