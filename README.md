@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/38702514?v=4"  />
+<img align="right" height="150" src="/assets/avatar1.png"  />
 
 ###
 
@@ -55,11 +55,5 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/josefernaz/josefernaz/output/snake.svg" alt="Snake animation" />
 
 ###
