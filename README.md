@@ -1,18 +1,11 @@
-<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! My name is Jose and I'm a full stack developer, from Spain</h2>
+<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! I'm Jose Manuel, Full Stack developer with more experience in frontend, although my work covers multiple areas. Currently, at Esparta Digital, I not only develop, but also manage VPS servers, manage clients and coordinate business projects, providing hosting and domain support.
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jmfernandezdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jmfernandezdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmfernandezdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="/assets/avatar1.png"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -41,16 +34,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://linkedin.com/in/jmfernandezalvarez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/jmfernandezdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
-
 ###
