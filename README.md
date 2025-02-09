@@ -38,3 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
+
+###
+
+<p>I also manage Vantag.es, a personal project where I host open-source initiatives and develop web applications. In addition, I share technical guides to help the community and foster the growth of the open-source ecosystem.</p>
