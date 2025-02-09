@@ -1,4 +1,6 @@
-<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! I'm Jose Manuel, Full Stack developer with more experience in frontend, although my work covers multiple areas. Currently, at Esparta Digital, I not only develop, but also manage VPS servers, manage clients and coordinate business projects, providing hosting and domain support.
+<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />!</h2> 
+
+<p>I'm Jose Manuel, Full Stack developer with more experience in frontend, although my work covers multiple areas. Currently, at Esparta Digital, I not only develop, but also manage VPS servers, manage clients and coordinate business projects, providing hosting and domain support.</p>
 
 ###
 
