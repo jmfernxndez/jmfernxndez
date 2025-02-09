@@ -1,6 +1,6 @@
 <h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h2> 
 
-<p>I'm Jose Manuel, Full Stack developer with more experience in frontend, although my work covers multiple areas. Currently, at Esparta Digital, I not only develop, but also manage VPS servers, manage clients and coordinate business projects, providing hosting and domain support.</p>
+<p>I'm Jose Manuel, Full Stack developer with more experience in frontend, although my work covers multiple areas. Currently, at <a href="https://espartadigital.com" target="_blank">Esparta Digital</a>, I not only develop, but also manage VPS servers, manage clients and coordinate business projects, providing hosting and domain support.</p>
 
 ###
 
@@ -41,4 +41,4 @@
 
 ###
 
-<p>I also manage Vantag.es, a personal project where I host open-source initiatives and develop web applications. In addition, I share technical guides to help the community and foster the growth of the open-source ecosystem.</p>
+<p>I also manage <a href="https://vantag.es" target="_blank">VANTAG.es</a>, a personal project where I host open-source initiatives and develop web applications. In addition, I share technical guides to help the community and foster the growth of the open-source ecosystem.</p>
